@@ -1,0 +1,21 @@
+# Ignoruj folder środowiska wirtualnego
+.venv/
+
+# Ignoruj pliki konfiguracyjne środowiska
+.env
+serviceAccountKey.json
+
+# Ignoruj logi
+*.log
+
+# Ignoruj pliki cache Pythona
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignoruj ustawienia IDE
+.idea/
+
+# Ignoruj pliki tymczasowe systemu
+.DS_Store
+Thumbs.db
